@@ -1,0 +1,14 @@
+D:\C#_project\Buoi2\Bai4\bin\Debug\net10.0\Bai4.exe
+D:\C#_project\Buoi2\Bai4\bin\Debug\net10.0\Bai4.deps.json
+D:\C#_project\Buoi2\Bai4\bin\Debug\net10.0\Bai4.runtimeconfig.json
+D:\C#_project\Buoi2\Bai4\bin\Debug\net10.0\Bai4.dll
+D:\C#_project\Buoi2\Bai4\bin\Debug\net10.0\Bai4.pdb
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\Bai4.AssemblyInfoInputs.cache
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\Bai4.AssemblyInfo.cs
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\Bai4.csproj.CoreCompileInputs.cache
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\Bai4.dll
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\refint\Bai4.dll
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\Bai4.pdb
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\Bai4.genruntimeconfig.cache
+D:\C#_project\Buoi2\Bai4\obj\Debug\net10.0\ref\Bai4.dll
